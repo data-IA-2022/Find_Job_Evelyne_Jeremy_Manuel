@@ -1,0 +1,231 @@
+,Poste,Poste_class,Niveau
+0,Data analyst,Data,Analyst
+1,Data analyst,Data,Analyst
+2,Data analyst,Data,Analyst
+3,Data analyst,Data,Analyst
+4,Data analyst,Data,Analyst
+5,Data analyst,Data,Analyst
+6,Data analyst,Data,Analyst
+7,Data analyst,Data,Managment
+8,Data analyst,Data,Analyst
+9,Data analyst,Data,Analyst
+10,Data analyst,Data,Analyst
+11,Data analyst,Data,Managment
+12,Data ingenier,Data,Ingénieur
+13,Data analyst,Data,Analyst
+14,Data scientist,Data,Scientist
+15,Cyber,Net,Ingénieur
+16,Data consultant,Data,Expert
+17,Big Data,Data,Ingénieur
+18,Data manager,Data,Managment
+19,Data analyst,Data,Managment
+20,Data ingenier,Data,Ingénieur
+21,Chef de projets,Support,Managment
+22,Big Data,Data,Ingénieur
+23,Big Data,Data,Stage/Alternance/Apprenti
+24,Data ingenier,Data,Ingénieur
+25,Data analyst,Data,Développeur
+26,Business analyst,Business,Analyst
+27,Data ingenier,Data,Ingénieur
+28,Business analyst,Business,Analyst
+29,Big Data,Data,Ingénieur
+30,Other,Other,Technicien
+31,Technicien informatique,Génie informatique,Technicien
+32,Operationnel,Support,Autre
+33,Business analyst,Business,Analyst
+34,Data analyst,Data,Managment
+35,Data scientist,Data,Scientist
+36,Data scientist,Data,Scientist
+37,Data scientist,Data,Scientist
+38,Data scientist,Data,Scientist
+39,Data analyst,Data,Analyst
+40,Data analyst,Data,Analyst
+41,Data manager,Data,Managment
+42,Cyber,Net,Ingénieur
+43,Data analyst,Data,Analyst
+44,Business intelligence,Business,Managment
+45,Business intelligence,Business,Expert
+46,Data scientist,Data,Scientist
+47,Data ingenier,Data,Ingénieur
+48,Business analyst,Business,Analyst
+49,Data other,Data,Managment
+50,Data manager,Data,Managment
+51,Data manager,Data,Expert
+52,Data manager,Data,Expert
+53,Chef de projet data,Data,Managment
+54,DPO,Data,Managment
+55,Data ingenier,Data,Ingénieur
+56,Data scientist,Data,Scientist
+57,Developpement test,Génie informatique,Ingénieur
+58,Developpement logiciel,Génie informatique,Architecte
+59,Developpement web,Génie informatique,Managment
+60,Data analyst,Data,Analyst
+61,Data analyst,Data,Analyst
+62,Data analyst,Data,Analyst
+63,Data analyst,Data,Analyst
+64,Data analyst,Data,Analyst
+65,Data analyst,Data,Analyst
+66,Data analyst,Data,Analyst
+67,Data analyst,Data,Managment
+68,Data analyst,Data,Analyst
+69,Data analyst,Data,Analyst
+70,Data analyst,Data,Analyst
+71,Data analyst,Data,Managment
+72,Data ingenier,Data,Ingénieur
+73,Data analyst,Data,Analyst
+74,Data scientist,Data,Scientist
+75,Cyber,Net,Ingénieur
+76,Data consultant,Data,Expert
+77,Big Data,Data,Ingénieur
+78,Data manager,Data,Managment
+79,Data analyst,Data,Managment
+80,Cyber cloud,Net,Ingénieur
+81,Data controler,Data,Technicien
+82,Data viz,Data,Autre
+83,Cyber cloud,Net,Architecte
+84,Developpement logiciel,Génie informatique,Développeur
+85,Commercial,Support,Expert
+86,Business intelligence,Business,Managment
+87,Big Data,Data,Stage/Alternance/Apprenti
+88,Data other,Data,Stage/Alternance/Apprenti
+89,Developpement full stack,Génie informatique,Développeur
+90,Operationnel,Support,Technicien
+91,Other,Other,Expert
+92,Business analyst,Business,Analyst
+93,Data scientist,Data,Scientist
+94,Business intelligence,Business,Expert
+95,Cyber,Net,Ingénieur
+96,Business analyst,Business,Managment
+97,Other,Other,Ingénieur
+98,Data ingenier,Data,Ingénieur
+99,Developpement logiciel,Génie informatique,Ingénieur
+100,Big Data,Data,Doctorant
+101,Business other,Génie informatique,Managment
+102,Infrastructures,Net,Ingénieur
+103,Business intelligence,Business,Expert
+104,Ingenieurie cloud,Net,Ingénieur
+105,Developpement application,Génie informatique,Ingénieur
+106,Data other,Data,Stage/Alternance/Apprenti
+107,Business analyst,Business,Analyst
+108,Operationnel,Support,Ingénieur
+109,Infrastructures,Net,Ingénieur
+110,Business analyst,Business,Analyst
+111,Chef de projet data,Data,Managment
+112,Data viz,Data,Stage/Alternance/Apprenti
+113,Data scientist,Data,Scientist
+114,Data manager,Data,Managment
+115,Data scientist,Data,Scientist
+116,Big Data,Data,Architecte
+117,Data scientist,Data,Scientist
+118,Other,Other,Expert
+119,Other,Other,Managment
+120,Developpement logiciel,Génie informatique,Développeur
+121,Business analyst,Business,Analyst
+122,Business analyst,Business,Analyst
+123,Business intelligence,Business,Expert
+124,Developpement web,Génie informatique,Ingénieur
+125,Middleware,Net,Ingénieur
+126,Infrastructures,Net,Architecte
+127,Ingenieurie cloud,Net,Ingénieur
+128,Big Data,Data,Autre
+129,Data other,Data,Stage/Alternance/Apprenti
+130,Data ingenier,Data,Ingénieur
+131,Business intelligence,Business,Expert
+132,Auditeur/Expert,Support,Expert
+133,Data analyst,Data,Stage/Alternance/Apprenti
+134,Data manager,Data,Managment
+135,Data analyst,Data,Ingénieur
+136,Chef de projet data,Data,Managment
+137,Big Data,Data,Développeur
+138,Marketing,Business,Stage/Alternance/Apprenti
+139,Chef de projets,Support,Architecte
+140,Ingenieurie cloud,Net,Ingénieur
+141,Cyber,Net,Ingénieur
+142,Responsable qualité,Support,Ingénieur
+143,Data analyst,Data,Ingénieur
+144,Developpement logiciel,Génie informatique,Ingénieur
+145,Ingenieurie cloud,Net,Ingénieur
+146,Developpement logiciel,Génie informatique,Ingénieur
+147,Developpement agile,Génie informatique,Ingénieur
+148,Data scientist,Data,Stage/Alternance/Apprenti
+149,Ingenieurie cloud,Net,Ingénieur
+150,Developpement logiciel,Génie informatique,Ingénieur
+151,Developpement web,Génie informatique,Expert
+152,Chef de projets,Support,Managment
+153,Developpement web,Génie informatique,Développeur
+154,Other,Other,Stage/Alternance/Apprenti
+155,Ingenieurie cloud,Net,Développeur
+156,Ingenieurie cloud,Net,Ingénieur
+157,Business intelligence,Business,Managment
+158,Developpement web,Génie informatique,Développeur
+159,Other,Other,Managment
+160,Developpement logiciel,Génie informatique,Ingénieur
+161,Developpement application,Génie informatique,Développeur
+162,Developpement backend,Génie informatique,Développeur
+163,Middleware,Net,Expert
+164,DPO,Data,Expert
+165,Business intelligence,Business,Expert
+166,Data ingenier,Data,Ingénieur
+167,Other,Other,Stage/Alternance/Apprenti
+168,Chef de projets,Support,Architecte
+169,Business analyst,Business,Analyst
+170,Marketing,Business,Stage/Alternance/Apprenti
+171,Big Data,Data,Technicien
+172,Commercial,Support,Expert
+173,Chef de projets,Support,Managment
+174,Developpement logiciel,Génie informatique,Ingénieur
+175,Developpement logiciel,Génie informatique,Ingénieur
+176,Developpement application,Génie informatique,Ingénieur
+177,DPO,Data,Autre
+178,Business analyst,Business,Analyst
+179,Data ingenier,Data,Ingénieur
+180,Developpement web,Génie informatique,Managment
+181,Developpement logiciel,Génie informatique,Ingénieur
+182,Data scientist,Data,Scientist
+183,Business intelligence,Business,Ingénieur
+184,Business analyst,Business,Analyst
+185,Other,Other,Autre
+186,Other,Other,Expert
+187,DPO,Data,Expert
+188,Commercial,Support,Ingénieur
+189,Data viz,Data,Stage/Alternance/Apprenti
+190,Cyber,Net,Ingénieur
+191,Developpement logiciel,Génie informatique,Ingénieur
+192,Chef de projets,Support,Managment
+193,Chef de projets,Support,Managment
+194,Developpement logiciel,Génie informatique,Ingénieur
+195,Other,Other,Managment
+196,Commercial,Support,Ingénieur
+197,Technicien informatique,Génie informatique,Technicien
+198,Other,Other,Stage/Alternance/Apprenti
+199,Developpement logiciel,Génie informatique,Ingénieur
+200,Cyber,Net,Stage/Alternance/Apprenti
+201,Developpement application,Génie informatique,Expert
+202,Developpement agile,Génie informatique,Développeur
+203,Other,Other,Technicien
+204,Auditeur/Expert,Support,Expert
+205,Other,Other,Autre
+206,Developpement agile,Génie informatique,Développeur
+207,Developpement agile,Génie informatique,Développeur
+208,Developpement logiciel,Génie informatique,Ingénieur
+209,Developpement full stack,Génie informatique,Expert
+210,Developpement logiciel,Génie informatique,Ingénieur
+211,Developpement logiciel,Génie informatique,Ingénieur
+212,Chef de projets,Support,Architecte
+213,Big Data,Data,Stage/Alternance/Apprenti
+214,Business intelligence,Business,Expert
+215,Cyber,Net,Architecte
+216,Developpement logiciel,Génie informatique,Développeur
+217,Developpement logiciel,Génie informatique,Ingénieur
+218,Developpement logiciel,Génie informatique,Architecte
+219,Infrastructures,Net,Expert
+220,Infrastructures,Net,Expert
+221,Business intelligence,Business,Managment
+222,Developpement logiciel,Génie informatique,Ingénieur
+223,Business intelligence,Business,Managment
+224,Chef de projets,Support,Managment
+225,Business intelligence,Business,Développeur
+226,Data architecte,Data,Architecte
+227,Responsable qualité,Support,Autre
+228,Data scientist,Data,Scientist
+229,Data scientist,Data,Scientist
